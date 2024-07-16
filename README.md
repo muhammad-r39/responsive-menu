@@ -1,3 +1,3 @@
-#responsive-menu
+# responsive-menu
 
-Simple and responsive navigation menu useful to start a project.
+Simple and responsive navigation menu, useful to start a project.
